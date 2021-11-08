@@ -52,7 +52,7 @@
 			"questionType": "true_false",
 			"questionText": "The java file extension is .py",
 			"correctAnswer": "False",
-			"options": ["True","False],
+			"options": ["True", "False"],
 			"feedback": "That is the file extension for a python file."
 		},
 		{
