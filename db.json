@@ -83,6 +83,7 @@
 			"id": 10,
 			"questionType": "text_input",
 			"questionText": "What is the truncation division operator in Python?",
+			"answerText": "answer_to_question",
 			"correctAnswer": "//",
 			"feedback": "// is truncated because it will only display the integer part of the quotient."
 		},
@@ -90,6 +91,7 @@
 			"id": 11,
 			"questionType": "text_input",
 			"questionText": "Type in the output of this: min(max(False,-3,-4), 2,7)",
+			"answerText": "answer_to_question",
 			"correctAnswer": "False",
 			"feedback": "The function max() is being used to find the maximum value from among -3, -4 and false. Since false amounts to the value zero, hence we are left with min(0, 2, 7) Hence the output is 0 (false)."
 		},
@@ -97,6 +99,7 @@
 			"id": 12,
 			"questionType": "text_input",
 			"questionText": "Fill in the blank. The package used for text formatting in Java programming language is java.____",
+			"answerText": "answer_to_question",
 			"correctAnswer": "text",
 			"feedback": "java.text allows formatting, searching and manipulating text."
 		},
@@ -104,6 +107,7 @@
 			"id": 13,
 			"questionType": "text_input",
 			"questionText": "Enter in the complied Java class file extension.",
+			"answerText": "answer_to_question",
 			"correctAnswer": ".class",
 			"feedback": "The compiled java files have .class extension."
 		},
@@ -111,6 +115,7 @@
 			"id": 14,
 			"questionType": "text_input",
 			"questionText": "Enter in which environment variable is used to set the java path.",
+			"answerText": "answer_to_question",
 			"correctAnswer": "JAVA_HOME",
 			"feedback": "JAVA_HOME is used to store a path to the java installation."
 		},
